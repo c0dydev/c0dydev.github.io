@@ -1,0 +1,25 @@
+p{
+  font-family: "Times New Roman", Times, serif;
+  line-height: 1;
+  text-indent: 2em;
+}
+
+
+pre{
+  font-family: "Times New Roman", Times, serif;
+  line-height: 0.65;
+}
+
+h1,h2{
+  text-align: center;
+}
+
+body{
+	margin: 0 auto;
+	max-width: 1000px;
+	font-size: 150%;
+}
+
+#toc_container li, #toc_container ul, #toc_container ul li{
+    list-style: outside none none !important;
+}
