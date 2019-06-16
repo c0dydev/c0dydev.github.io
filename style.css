@@ -10,15 +10,26 @@ pre{
   line-height: 0.65;
 }
 
-h1,h2{
+h1,h2,h3,h4{
   text-align: center;
+  color: #eee;
+}
+
+a {
+  color: #5dd677;
+  text-decoration: none;
+  cursor: pointer;
+}
+a:hover, a:active {
+  color: #c7bebe;
 }
 
 body{
 	margin: 0 auto;
 	max-width: 1000px;
 	font-size: 150%;
-	background-color: #f2f2f2;
+	color: #c7bebe;
+	background-color: #1a1a1a;
 }
 
 #toc_container li, #toc_container ul, #toc_container ul li{
