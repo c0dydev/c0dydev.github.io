@@ -1,5 +1,4 @@
 p{
-  font-family: "Times New Roman", Times, serif;
   line-height: 1;
   text-indent: 2em;
 }
@@ -10,7 +9,7 @@ pre{
   line-height: 0.65;
 }
 
-h1,h2,h3,h4{
+h1,h2,h3,h4,h5,h6{
   text-align: center;
   color: #eee;
 }
@@ -25,6 +24,7 @@ a:hover, a:active {
 }
 
 body{
+	font-family: "Times New Roman", Times, serif;
 	margin: 0 auto;
 	max-width: 1000px;
 	font-size: 150%;
